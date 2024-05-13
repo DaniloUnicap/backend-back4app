@@ -4,10 +4,10 @@ const inputTarefa = document.getElementById("inputTarefa");
 const btAdicionar = document.getElementById("btAdicionar");
 const cbNaoConcluidas = document.getElementById("cbNaoConcluidas");
 
-const tarefaURL = "https://parseapi.back4app.com/classes/Tarefa";
+const tarefaURL = "https://parseapi.back4app.com/classes/tarefa";
 const headers = {
-  "X-Parse-Application-Id": "1cJocS0NTUEkciXEyZuWApiy4YcAzkICO0HElEnW",
-  "X-Parse-REST-API-Key": "7dl9VG5489Lu5nXteS9mqclTHaSbin5I0yVIPC5n",
+  "X-Parse-Application-Id": "TMl1MfCjF3UjZLmTKxdh60456RguCSrEEwDHmSnC",
+  "X-Parse-REST-API-Key": "E7abvuNx1AAZuHNPdzbxGGIZABbVmxqw69lY543p",
 };
 const headersJson = {
   ...headers,
